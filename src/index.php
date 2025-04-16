@@ -29,10 +29,10 @@
 		</div>
 		<h3 class="font-bold">Čo je FMIX?</h3>
 		<p class="pb-2 pl-2">
-			<b>F</b>eikársky <b>M</b>atematicko-<b>I</b>nformaticko-<b>K</b>ryptografický seminár ponúka priestor na rozvoj
+			<b>F</b>eikársky <b>M</b>atematicko-<b>I</b>nformaticko-<b>K</b>ryptologický seminár ponúka priestor na rozvoj
 			matematických a technických zručností. Je určený pre študentov stredných škôl a gymnázií, ktorí radi objavujú a
 			riešia výzvy
-			z oblasti informatiky, matematiky a kryptografie. Našim cieľom je podporiť talentovaných mladých ľudí a inšpirovať
+			z oblasti informatiky, matematiky a kryptológie. Našim cieľom je podporiť talentovaných mladých ľudí a inšpirovať
 			ich na ceste k budúcemu akademickému a profesionálnemu rastu.
 		</p>
 
@@ -40,7 +40,7 @@
 		<p class="pb-2 pl-2">
 			Seminár prebieha počas letného semestra akademického roka a je rozdelený do troch kôl. Každé kolo pozostáva zo 6
 			úloh
-			(4 matematických, 1 informatickej a 1 kryptografickej). Riešitelia majú na ich vypracovanie stanovený čas a ich
+			(4 matematických, 1 informatickej a 1 kryptologickej). Riešitelia majú na ich vypracovanie stanovený čas a ich
 			riešenia
 			hodnotí odborná komisia.
 		</p>
@@ -68,7 +68,7 @@
 			<ul class="pl-2 list-decimal list-inside">
 				<li><b>Prečítaj si pravidlá –</b> Zistíš, ako seminár funguje a čo môžeš očakávať.</li>
 				<li><b>Pozri si aktuálne úlohy –</b> Zadania nájdeš na stránke seminára.</li>
-				<li><b>Rieš úlohy –</b> Skús sa popasovať s matematikou, informatikou a kryptografiou.</li>
+				<li><b>Rieš úlohy –</b> Skús sa popasovať s matematikou, informatikou a kryptológiou.</li>
 				<li><b>Odovzdaj riešenia –</b> Pri odovzdávaní jednoducho uvedieš svoju prezívku a heslo.</li>
 				<li><b>Sleduj výsledky –</b> Po vyhodnotení sa dozvieš, ako sa ti darilo.</li>
 			</ul>

@@ -27,7 +27,7 @@
 			<span class="font-bold text-lg">Preambula</span>
 			<br>
 			<span>
-			Predmetom týchto pravidiel Feikárskeho Matematicko-Informaticko-Kryptografického seminára <b>FMIX</b> 
+			Predmetom týchto pravidiel Feikárskeho Matematicko-Informaticko-Kryptologického seminára <b>FMIX</b> 
 			(ďalej len „Seminár“ v príslušnom gramatickom tvare) je stanovenie podmienok, pravidiel a kritérií, 
 			ktoré musí účastník splniť, aby sa stal úspešným riešiteľom.
 			</span>
@@ -53,7 +53,7 @@
 						<li>
 							<span>
 							Cieľom seminára je podpora a rozvoj talentovaných študentov v oblastiach 
-							matematiky, informačných technológií a kryptografie, ako aj formovať budúcu 
+							matematiky, informačných technológií a kryptológie, ako aj formovať budúcu 
 							generáciu študentov FEI STU a technicky zdatných odborníkov.
 							</span>
 						</li>
@@ -99,7 +99,7 @@
 					<span class="font-bold text-lg">Kategórie úloh</span>
 					<ol>
 						<li>
-							<span>Každé kolo seminára sa skladá zo 4 úloh z matematiky, 1 úlohy z informatiky a 1 úlohy z kryptografie.</span>
+							<span>Každé kolo seminára sa skladá zo 4 úloh z matematiky, 1 úlohy z informatiky a 1 úlohy z kryptológie.</span>
 						</li>
 						<li>
 							Každá úloha má dve verzie A a B, pričom študenti jednotlivých ročníkov môžu riešiť iba verziu úlohy z určenej kategórie.
