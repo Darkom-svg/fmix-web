@@ -7,16 +7,16 @@
 				Ústav informatiky a matematiky - FMIX<br>
 				Ilkovičova 3, 841 04 Bratislava<br>
 				<p class="mt-2.5">
-					Email: 
+					Email:
 					<a class="link-text text-black" target="_blank" href="mailto:fmix@stuba.sk">
-					fmix@stuba.sk
+						fmix@stuba.sk
 					</a>
 				</p>
 			</address>
 		</div>
 
 		<div class="part">
-			<h1 class="text-xl">Odkazy</h1>
+			<h1 class="text-xl">Odkazi</h1>
 			<a class="flex justify-center link-text text-black" target="_blank" href="https://uim.fei.stuba.sk/">
 				Ústav informatiky a matematiky
 			</a>
