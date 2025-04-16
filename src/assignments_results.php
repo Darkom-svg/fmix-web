@@ -24,17 +24,28 @@
 	<h2 class="px-6 pb-4 pt-1.5 font-thin text-4xl">Výsledky</h2>
 	<table class="table-auto w-10/12 border-collapse text-sm">
         <thead>
-        <tr>
-            <th class="px-6 py-3 text-left">Meno a priezvisko</th>
-            <th class="px-6 py-3 text-center">Škola</th>
-            <th class="px-6 py-3 text-right">Výsledok</th>
-        </tr>
+			<tr>
+				<th class="px-6 py-3 text-left">Meno a priezvisko</th>
+				<th class="px-6 py-3 text-left">Ročník</th>
+				<th class="px-6 py-3 text-center">Škola</th>
+				<th class="px-6 py-3 text-center">1</th>
+				<th class="px-6 py-3 text-center">2</th>
+				<th class="px-6 py-3 text-center">3</th>
+				<th class="px-6 py-3 text-center">4</th>
+				<th class="px-6 py-3 text-center">5</th>
+				<th class="px-6 py-3 text-center">6</th>
+				<th class="px-6 py-3 text-right">∑</th>
+			</tr>
         </thead>
         <tbody>
 			<tr class="border-t border-black border-opacity-50">
 			</tr>
         </tbody>
-        <caption class="text-left">(Výsledky 1. kola)</caption>
+        <caption class="text-left">
+			(Výsledky 1. kola)
+			<br>
+			Zobrazené bodovo lepšie hodnotenie príkladu.
+		</caption>
     </table>
 </main>
 
